@@ -1,0 +1,28 @@
+@import './home.scss';
+
+// main
+main {
+  width: 100%;
+  height: 30rem;
+  display: flex;
+  background-color: $background-color;
+}
+
+// sideber style
+#sideber {
+  width: 20%;
+}
+
+// pages style
+
+#page {
+  width: 80%;
+  height: 100%;
+}
+
+.main-content {
+  width: 75%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+}
